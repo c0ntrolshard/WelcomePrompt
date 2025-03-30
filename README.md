@@ -1,10 +1,17 @@
-Welcome Prompt
+#Welcome Prompt
 
-Greets you, once device opens!
+Welcomes you once you open your device!
 
-Installation : 
 
-Go to your startup folder and add the exe.
-Restart your device after.
+#Installations
 
-Only For Windows
+
+**Windows**
+
+Add the exe file to your startup folder.
+
+
+#Language Used
+
+C++
+
