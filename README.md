@@ -1,9 +1,9 @@
-#Welcome Prompt
+# Welcome Prompt
 
 Welcomes you once you open your device!
 
 
-#Installations
+# Installations
 
 
 **Windows**
